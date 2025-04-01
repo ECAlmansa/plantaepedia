@@ -9,23 +9,21 @@ title: Plantaepedia
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plantaepedia</title>
-    <style type="text/css">
-        p {
-            body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
-            h1 { color: #4CAF50; }
-            .button { 
-                display: block; 
-                width: 250px; 
-                margin: 20px auto; 
-                padding: 15px; 
-                background-color: #4CAF50; 
-                color: white; 
-                text-decoration: none; 
-                font-size: 18px; 
-                border-radius: 10px; 
+    <style>
+        head { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #4CAF50; }
+        .button { 
+            display: block; 
+            width: 250px; 
+            margin: 20px auto; 
+            padding: 15px; 
+            background-color: #4CAF50; 
+            color: white; 
+            text-decoration: none; 
+            font-size: 18px; 
+            border-radius: 10px; 
             }
-            .button:hover { background-color: #45a049; }
-        }
+        .button:hover { background-color: #45a049; }
     </style>
 </head>
 <body>
