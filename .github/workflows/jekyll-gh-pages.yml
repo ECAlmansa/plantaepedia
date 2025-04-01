@@ -9,25 +9,25 @@ title: Plantaepedia
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plantaepedia</title>
-    <style>
-        .head { font-family: Arial ;
-        text-align: center;
-        padding: 50px; }
-        h1 { color: #4CAF50; }
-        .button { 
-            display: block; 
-            width: 250px; 
-            margin: 20px auto; 
-            padding: 15px; 
-            background-color: #4CAF50; 
-            color: white; 
-            text-decoration: none; 
-            font-size: 18px; 
-            border-radius: 10px; 
-            }
-        .button:hover { background-color: #45a049; }
-    </style>
 </head>
+<style>
+    head { font-family: Arial ;
+    text-align: center;
+    padding: 50px; }
+    h1 { color: #4CAF50; }
+    .button { 
+        display: block;             
+        width: 250px; 
+        margin: 20px auto; 
+        padding: 15px; 
+        background-color: #4CAF50; 
+        color: white; 
+        text-decoration: none;             
+        font-size: 18px; 
+        border-radius: 10px; 
+        }
+        .button:hover { background-color: #45a049; }
+</style>
 <body>
     <h1>Plantaepedia</h1>
     <a href="jugar.html" class="button">¡Haz click aquí para empezar a jugar!</a>
