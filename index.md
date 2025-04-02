@@ -2,6 +2,14 @@
 layout: default
 title: Plantaepedia
 ---
+
+# 🌿 Bienvenido a Plantaepedia  
+Haz clic en los botones abajo para continuar.
+
+<a href="jugar.html" class="button">¡Haz click aquí para empezar a jugar!</a>  
+<a href="sobre.html" class="button">Sobre Plantaepedia</a>  
+<a href="contacto.html" class="button">Contacto</a>  
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
