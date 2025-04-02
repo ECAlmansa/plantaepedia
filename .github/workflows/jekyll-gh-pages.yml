@@ -33,12 +33,6 @@ title: Plantaepedia
         .button:hover { background-color: #45a049; }
     </style>
 </head>
-<body>
-    <h1>Plantaepedia</h1>
-    <a href="jugar.html" class="button">¡Haz click aquí para empezar a jugar!</a>
-    <a href="sobre.html" class="button">Sobre Plantaepedia</a>
-    <a href="contacto.html" class="button">Contacto</a>
-</body>
 </html>
 
 # _layouts/default.html
